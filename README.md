@@ -12,11 +12,3 @@ SocialSphere is a feature-rich social media application built using the MERN sta
 •	Backend: Node.js, Express.js for the server, MongoDB as the database.
 •	Authentication: JSON Web Tokens (JWT) for secure user authentication.
 •	Real-time Updates and Chat: Utilizing Socket.IO for efficient real-time communication.
-
-## Getting Started
-To run SocialConnect locally, follow these steps:
-1.	Clone the repository: git clone https://github.com/Nikitakandwal/SocialSphere.git
-2.	Install dependencies: cd frontend/backend && npm install
-3.	Set up the MongoDB database and configure the connection.
-4.	Start the server: npm start for both the client and server.
-
